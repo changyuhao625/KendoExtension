@@ -1,0 +1,10 @@
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\KendoExtensionTests.dll
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\KendoExtensionTests.pdb
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.dll
+C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.pdb

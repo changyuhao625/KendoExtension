@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div id="grid"></div>
+
+<script type="text/javascript">
+    $(function () {
+        //建立資料來源物件
+        var dataSrc = new kendo.data.DataSource({
+            transport: {
+                read: {
+                    //以下其實就是$.ajax的參數
+                    type: "POST",
+                    url: "@Url.Action("GetGridData", "KendoExt")",
+                    dataType: "json",
+                    //data: {
+                    //    //額外傳至後方的參數
+                    //}
+                    data: function () {
+                    }
+                }
+            },
+            pageSize: 10,
+            serverPaging: true,
+            serverSorting: true
+        }
+        );
+
+        $('#grid').kendoExtGrid({
+            dataSource: dataSrc,
+            columns: [
+                { field: "Id", title: "ID" },
+                {
+                    field: "Name", title: "Name",
+                }
+            ]
+        });
+    })
+</script>
