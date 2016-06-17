@@ -8,3 +8,14 @@ C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\bin\Debug\zh-
 C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.csprojResolveAssemblyReference.cache
 C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.dll
 C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.pdb
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\KendoExtensionTests.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\KendoExtensionTests.pdb
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\Microsoft.Web.Infrastructure.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtensionTests\obj\Debug\KendoExtensionTests.pdb

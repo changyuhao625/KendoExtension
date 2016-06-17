@@ -26,3 +26,31 @@ C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtension\obj\Debug\KendoExt
 C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtension\obj\Debug\KendoExtension.pdb
 C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtension\bin\Dynamic.dll
 C:\Users\Harry\Desktop\KendoExt\KendoExtension\KendoExtension\bin\KendoGridBinder.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\KendoExtension.dll.config
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\KendoExtension.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\KendoExtension.pdb
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\Dynamic.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\KendoGridBinder.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\WebGrease.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\obj\Debug\KendoExtension.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\obj\Debug\KendoExtension.dll
+\\vmware-host\Shared Folders\文件\GitHub\KendoExtension\KendoExtension\obj\Debug\KendoExtension.pdb
