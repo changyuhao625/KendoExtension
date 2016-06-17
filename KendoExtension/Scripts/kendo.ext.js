@@ -1,6 +1,6 @@
 ﻿$(function () {
     kendoui = kendo.ui,
-	Widget = kendoui.Widget
+	Widget = kendoui.Widget,
     itsmGridCheckVal = {};
     var ExtGrid = Widget.extend({
         dataSource: null,
